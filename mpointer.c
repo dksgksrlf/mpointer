@@ -1,4 +1,5 @@
 #include <stdio.h>
+//vscode
 void func1(int* p);
 void func2(int** p);
 void func3(int*** p);
